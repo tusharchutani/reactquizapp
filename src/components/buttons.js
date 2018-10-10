@@ -45,7 +45,7 @@ const styles = {
       }
     },
     quizButtonCorrect:{
-      backgroundColor:'blue',
+      backgroundColor:'green',
       border: '3px solid black'
     },quizButtonIncorrect:{
       backgroundColor:'red',

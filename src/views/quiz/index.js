@@ -166,7 +166,8 @@ const styles = {
   questionNumber:{
     color:'grey'
   },nextButtonContainer:{
-    textAlign:'right'
+    textAlign:'right',
+    marginTop:'10px'
   },
   wrongAnswerIcon:{
     fontSize: '50px',
