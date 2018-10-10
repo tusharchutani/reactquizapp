@@ -1,11 +1,8 @@
 
 # How to Run
 npm install
+
 npm start
-
-or 
-
-try on https://reactreduxquiz.herokuapp.com/
 
 # Stack
 - React
