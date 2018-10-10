@@ -6,8 +6,7 @@ var defaultState = {};
 
 function configigureStore(initialState=defaultState){
     var store = createStore(rootReducer, initialState, 
-            compose(applyMiddleware(thunk),
-            window.devToolsExtension && window.devToolsExtension()));
+            compose(applyMiddleware(thunk)));
     return store;
 }
 
