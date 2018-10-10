@@ -4,6 +4,8 @@ npm install
 
 npm start
 
+or 
+try on https://reactreduxquiz.herokuapp.com/
 # Stack
 - React
 - Redux: state managment
