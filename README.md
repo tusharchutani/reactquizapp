@@ -1,8 +1,8 @@
 
 # How to Run
-npm install
+`npm install`
 
-npm start
+`npm start`
 
 or 
 try on https://reactreduxquiz.herokuapp.com/
