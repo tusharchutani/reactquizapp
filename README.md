@@ -5,12 +5,18 @@
 `npm start`
 
 or 
-try on https://reactreduxquiz.herokuapp.com/
+try on https://spare-labs-project.herokuapp.com/
+
+# How to deploy? 
+
+The app can easily be build and deployed to a server through Heroku.
+
 # Stack
 - React
 - Redux: state managment
 - Redux-thunk: async operations in state managment
 - Axios
+
 # File structure
 Actions - has all the actions for the app
 Redux - has all the redux and business logic
